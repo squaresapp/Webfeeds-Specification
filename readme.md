@@ -1,4 +1,4 @@
 
-# HTML Feeds Specification
+# Webfeeds Specification
 
-This repository contains the future specification for HTML feeds.
+This repository contains the future specification for Webfeeds.
